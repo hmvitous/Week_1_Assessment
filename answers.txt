@@ -1,0 +1,18 @@
+1.  car = "variable"
+
+boolean
+string
+float
+integar
+array
+hash
+
+4.
+
+-To initiliaze rspec in a folder you first need to create a Gemfile. In said Gemfile,
+you type a source (https://rubygems.org) and the gem you want (rspec).
+Next you run gem install bundler in the terminal in the folder you created for a project. Then
+run bundle install in terminal. Lastly, run rspec --init to initialize the gem. 
+
+-Test driven development. It is good practice to constantly test the code so you can
+see when it messes up before it is too much to handle.
